@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/e1c0c251-1a21-41b7-9f81-f94eaf208040)
+
+
 # Data Cleaning Project with Pandas
 TLDR:
 In the "Data Ingestion and Cleaning for Analysis using Python" project, you create a robust data pipeline that automates the ingestion, cleaning, and preparation of data from a future-proof source for analytical use. The function must support and convert various data formats and sources. Please ensure the pipeline efficiently ingests data into a Pandas DataFrame, identifies and rectifies inconsistencies like missing values, case sensitivity, or other outliers. Please make sure it standardizes data types and transforms data through derived columns, especially for financial calculations. Develop the pipeline to be easily adaptable for future datasets, with parameterization for different sources and cleaning criteria. Test and validate in the code the pipeline to confirm its accuracy and reliability. The result should yield a cleaned dataset.
