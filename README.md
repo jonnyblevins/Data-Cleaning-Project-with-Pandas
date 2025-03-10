@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/e1c0c251-1a21-41b7-9f81-f94eaf208040)
+![image](https://github.com/user-attachments/assets/4759a626-d5ef-4bef-a959-aff35194e30b)
+
 
 
 # Data Cleaning Project with Pandas
