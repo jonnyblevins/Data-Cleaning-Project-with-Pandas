@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/4759a626-d5ef-4bef-a959-aff35194e30b)
+Directions Included of How to Navigate Git for Community Assistance
+![image](https://github.com/user-attachments/assets/47801cb9-63a0-4ab7-b768-1f725697567d)
 
 
 
