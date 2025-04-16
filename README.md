@@ -5,9 +5,12 @@ Directions Included of How to Navigate Git for Community Assistance
 
 # Data Cleaning Project with Pandas
 TLDR:
-In the "Data Ingestion and Cleaning for Analysis using Python" project, you create a robust data pipeline that automates the ingestion, cleaning, and preparation of data from a future-proof source for analytical use. The function must support and convert various data formats and sources. Please ensure the pipeline efficiently ingests data into a Pandas DataFrame, identifies and rectifies inconsistencies like missing values, case sensitivity, or other outliers. Please make sure it standardizes data types and transforms data through derived columns, especially for financial calculations. Develop the pipeline to be easily adaptable for future datasets, with parameterization for different sources and cleaning criteria. Test and validate in the code the pipeline to confirm its accuracy and reliability. The result should yield a cleaned dataset.
+In the "Data Ingestion and Cleaning for Analysis using Python" project, I've created a robust (somewhat robust, haha) data pipeline that automates the ingestion, cleaning, and preparation of data from a future-proof source for analytical use. My TLDR is: this setup uses Python and some libraries to take your dataset, clean it up a bit, and display your data with a visual element. 
 
-CODE BREAKDOWN:
+As it currently functions, it supports and converts various data formats and sources. Please ensure the pipeline efficiently ingests data into a Pandas DataFrame, identifies and rectifies inconsistencies like missing values, case sensitivity, or other outliers. You can do this of course by checking the first five dataframes (default). Please make sure it standardizes data types and transforms data through derived columns, especially for financial calculations. As this project grows, I expect the pipeline to continue to be easily adaptable for future datasets which I may have missed, with parameterization for different sources and cleaning criteria. Either way, thanks for looking in and I hope you play with this and result with a cleaned dataset.
+
+
+CODE BREAKDOWN (more nerd-speak, you can skip this part!):
 
 UPLOADING
 The code begins with a function asking for two parameters: give the location or source of data, and what format you'd like it to be in. The default is currently to 'csv'.
@@ -28,3 +31,7 @@ CLEANING & TRANSFORMATION
 The clean_and_transform_data function takes that DataFrame and and performs data cleaning and transformation. Initially, it reports missing values, converts date columns to datetime format, and ensures numeric columns contain only numeric values. Placeholder lambda functions suggest spots for more complex cleaning operations. The function then applies these cleaning operations to specified columns, demonstrating a framework for data cleaning that can be expanded with more specific logic.
 
 In a nutshell, the code is cleaning the data by removing extreme values (outliers) and filling in gaps (missing values) to make the dataset more uniform and easier to analyze.
+
+
+
+If you were able to get through that, wow, bless your heart, human. Go take a nap or rest!
