@@ -1,6 +1,6 @@
 Directions Included of How to Navigate Git for Community Assistance
 ![image](https://github.com/user-attachments/assets/47801cb9-63a0-4ab7-b768-1f725697567d)
-
+(Yes I drew this myself, see if you can spot my typo(s). 😅
 
 
 # Data Cleaning Project with Pandas
